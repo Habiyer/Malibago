@@ -76,7 +76,7 @@ img{
     font-size: 40px;
     font: 2.3em sans-serif;
     font-weight: 700;
-    text-shadow: 0 0 1px black;
+    text-shadow: 0 0 1px rgb(0, 0, 0);
 }
 .Details{
     font-size: 13px;
